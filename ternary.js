@@ -16,6 +16,8 @@ const message = (age >= 21)
 
 console.log(message);
 
+console.log("Isn't this cool?")
+
 // YES, we can nest ternaries...
 
 const message2 = (age >= 21)
